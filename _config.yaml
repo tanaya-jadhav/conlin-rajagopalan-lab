@@ -1,9 +1,9 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
+title: Conlin-Rajagopalan Lab
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-logo: images/logo.svg
+logo: images/chop-logo.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: /conlin-rajagopalan-lab
